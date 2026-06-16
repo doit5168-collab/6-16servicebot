@@ -1,5 +1,6 @@
 import google.generativeai as genai
 from google.colab import userdata
+import os
 
 api_key = os.getenv'GEMINI_KEY')
 
